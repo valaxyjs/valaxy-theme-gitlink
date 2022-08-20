@@ -1,7 +1,13 @@
 <template>
   <div class="antialiased">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 xl:max-w-6xl xl:px-0">
+    <!-- <div class="max-w-4xl mx-auto px-4 sm:px-6 xl:max-w-6xl xl:px-0">
       <StarterNav />
+    </div> -->
+
+    <GLHeader />
+
+    <div text="center" flex="~" justify="center" m="b-8">
+      <GLNav />
     </div>
 
     <main class="max-w-4xl mx-auto px-4 sm:px-6 xl:max-w-6xl xl:px-0">
@@ -42,10 +48,6 @@
     </main>
 
     <StarterHelper />
-
-    <StarterFooter>
-      <slot name="footer" />
-    </StarterFooter>
   </div>
 </template>
 

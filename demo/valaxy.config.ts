@@ -12,6 +12,7 @@ export default defineConfig<ThemeConfig>({
   author: {
     avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
     name: '云游君',
+    intro: '希望能成为一个有趣的人。 希望能创造出可以成为他人回忆的事物。',
   },
   description: 'Valaxy Theme Gitlink Preview.',
   social: [
@@ -116,20 +117,12 @@ export default defineConfig<ThemeConfig>({
 
     nav: [
       {
-        text: 'GitHub',
-        link: 'https://github.com/valaxyjs/valaxy-theme-gitlink',
+        text: '项目',
+        link: '/projects',
       },
       {
-        text: 'RSS',
-        link: '/atom.xml',
-      },
-      {
-        text: 'Discord',
-        link: 'https://discord.gg/sGe4U4p4CK',
-      },
-      {
-        text: 'Valaxy →',
-        link: 'https://github.com/YunYouJun/valaxy',
+        text: '关于',
+        link: '/about',
       },
     ],
 

@@ -73,3 +73,14 @@ export interface NavItem {
 }
 
 export type ThemeUserConfig = Partial<ThemeConfig>
+
+/**
+ * extend valaxy UserConfig
+ */
+declare module 'valaxy' {
+  interface UserConfig<ThemeConfig> {
+    avatar: {
+      intro?: string
+    }
+  }
+}
