@@ -1,5 +1,5 @@
 <template>
-  <div class="divide-y divide-gray-200 dark:divide-gray-700" bg="gray-200">
+  <div bg="gray-200 dark:dark-800">
     <GLIntro />
 
     <!-- <slot>

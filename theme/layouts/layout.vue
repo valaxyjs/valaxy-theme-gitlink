@@ -6,6 +6,8 @@
 
     <GLHeader />
 
+    <GLConfig class="absolute top-5 right-5" />
+
     <div text="center" flex="~" justify="center" m="b-8">
       <GLNav />
     </div>

@@ -31,4 +31,21 @@ const themeConfig = useThemeConfig()
     background-color: black;
   }
 }
+
+.dark {
+  .gl-nav-item {
+    color: white;
+    border-color: #666;
+    background-color: #222;
+
+    &:hover {
+      background-color: #333;
+    }
+
+    &.active {
+      color: black;
+      background-color: white;
+    }
+  }
+}
 </style>

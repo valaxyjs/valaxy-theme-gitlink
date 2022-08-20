@@ -7,9 +7,9 @@ const config = useConfig()
 <template>
   <div class="gl-intro flex items-center" justify="center" w="screen" h="screen">
     <div
-      class="gl-card transition shadow-md hover:shadow-lg" flex="~ col"
+      class="gl-card transition shadow-md hover:shadow-lg rounded relative" flex="~ col"
       min-w="300px"
-      items="center" justify="center" m="2" p="4" bg="white"
+      items="center" justify="center" m="2" p="4" bg="white dark:dark-900"
     >
       <div class="avatar" flex="~ col" justify="center" items="center" m="t-2">
         <img class="gl-avatar transition shadow border-white border-width-3px" rounded="full" :src="config.author.avatar" width="100" height="100" alt="avatar">
@@ -26,8 +26,11 @@ const config = useConfig()
       <blockquote m="y-4" p="y-2" opacity="80" text="sm" class="border-y border-t-gray-200 border-b-gray-200">
         {{ config.author.intro }}
       </blockquote>
+
       <GLNav m="y-2" />
       <GLSocial m="t-2" />
     </div>
+
+    <GLConfig class="absolute top-5 right-5" />
   </div>
 </template>
