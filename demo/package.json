@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "valaxy": "^0.10.3",
-    "valaxy-theme-starter": "workspace:*"
+    "valaxy-theme-gitlink": "workspace:*"
   },
   "devDependencies": {
     "nodemon": "^2.0.19",

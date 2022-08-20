@@ -1,4 +1,6 @@
-export namespace StarterTheme {
+export * from './projects.d'
+
+export namespace GitlinkTheme {
   export type Config = ThemeConfig
   export type Sidebar = any
 }

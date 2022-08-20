@@ -11,19 +11,15 @@ tags:
 ## Hello, Valaxy!
 
 ```ts
-import type { ThemeConfig } from 'valaxy-theme-starter'
+import type { ThemeConfig } from 'valaxy-theme-gitlink'
 import { defineConfig } from 'valaxy'
 
 export default defineConfig<ThemeConfig>({
   // your theme name
-  // valaxy-theme-yun name is 'yun'
-  theme: 'starter',
+  theme: 'gitlink',
 
   themeConfig: {
-    banner: {
-      enable: true,
-      title: '云游君的小站',
-    },
+    // ...
   },
 })
 ```

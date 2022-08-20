@@ -1,5 +1,5 @@
 import { defineConfig } from 'valaxy'
-import type { ThemeConfig } from 'valaxy-theme-starter'
+import type { ThemeConfig } from 'valaxy-theme-gitlink'
 
 /**
  * User Config
@@ -7,13 +7,13 @@ import type { ThemeConfig } from 'valaxy-theme-starter'
  */
 export default defineConfig<ThemeConfig>({
   lang: 'zh-CN',
-  title: 'Valaxy Theme Starter',
-  url: 'https://starter.valaxy.site/',
+  title: 'Valaxy Theme Gitlink',
+  url: 'https://gitlink.valaxy.site/',
   author: {
     avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
     name: '云游君',
   },
-  description: 'Valaxy Theme Starter Preview.',
+  description: 'Valaxy Theme Gitlink Preview.',
   social: [
     {
       name: 'RSS',
@@ -107,7 +107,7 @@ export default defineConfig<ThemeConfig>({
     },
   },
 
-  theme: 'starter',
+  theme: 'gitlink',
 
   themeConfig: {
     // colors: {
@@ -117,7 +117,7 @@ export default defineConfig<ThemeConfig>({
     nav: [
       {
         text: 'GitHub',
-        link: 'https://github.com/YunYouJun/valaxy-theme-starter',
+        link: 'https://github.com/valaxyjs/valaxy-theme-gitlink',
       },
       {
         text: 'RSS',

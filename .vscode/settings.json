@@ -4,7 +4,8 @@
     "instantsearch",
     "valaxy",
     "valaxyjs",
-    "beian"
+    "beian",
+    "gitlink"
   ],
   "i18n-ally.sourceLanguage": "en",
   "i18n-ally.keystyle": "nested",
