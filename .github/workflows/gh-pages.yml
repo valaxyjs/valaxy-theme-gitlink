@@ -25,7 +25,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Install pnpm
         uses: pnpm/action-setup@v2
@@ -41,7 +41,7 @@ jobs:
           cache: pnpm
 
       - name: 🌌 Build Valaxy Blog
-        run: npm run build
+        run: npm run build && sleep 3
         env:
           NODE_OPTIONS: --max-old-space-size=8192
 
