@@ -1,11 +1,11 @@
 <script lang="ts" setup>
-import { useConfig } from 'valaxy'
+import { useSiteConfig } from 'valaxy'
 
-const config = useConfig()
+const config = useSiteConfig()
 </script>
 
 <template>
-  <div class="gl-intro flex items-center" justify="center" w="screen" h="screen">
+  <div class="gl-intro flex items-center" justify="center" w="full" h="screen">
     <div
       class="gl-card transition shadow-md hover:shadow-lg rounded relative" flex="~ col"
       min-w="300px"

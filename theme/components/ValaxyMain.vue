@@ -1,17 +1,17 @@
 <script lang="ts" setup>
 import type { PageData, Post } from 'valaxy'
-import { useConfig } from 'valaxy'
+import { useSiteConfig } from 'valaxy'
 
 defineProps<{
   frontmatter: Post
   data?: PageData
 }>()
-const config = useConfig()
+const config = useSiteConfig()
 </script>
 
 <template>
   <main>
-    <div w="full" flex="~">
+    <div w="full" flex="~ col">
       <slot name="main">
         <div class="content" flex="~ col grow" w="full" p="l-4 lt-md:0">
           <slot name="main-header" />
@@ -36,7 +36,7 @@ const config = useConfig()
 
         <slot v-if="config.comment.enable && frontmatter.comment !== false" name="comment" />
 
-        <slot name="footer" />
+        <GLFooter />
       </slot>
     </div>
 

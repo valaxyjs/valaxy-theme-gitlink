@@ -52,4 +52,3 @@
     <StarterHelper />
   </div>
 </template>
-

@@ -7,6 +7,10 @@ Valaxy-Theme-Gitlink<sup><em>(vue)</em></sup>
 
 > This is a template for creating a [valaxy](https://github.com/YunYouJun/valaxy) theme.
 
+## Preview
+
+- By Cloudflare: [gitlink.valaxy.site](https://gitlink.valaxy.site)
+
 ## Usage
 
 ```bash

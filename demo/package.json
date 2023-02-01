@@ -3,17 +3,17 @@
   "scripts": {
     "build": "npm run build:ssg && npm run rss",
     "build:spa": "valaxy build",
-    "build:ssg": "valaxy build --ssg",
+    "build:ssg": "valaxy build --ssg --log=info",
     "dev": "valaxy",
     "rss": "valaxy rss",
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "^0.10.3",
-    "valaxy-theme-gitlink": "workspace:*"
+    "valaxy": "^0.14.3",
+    "valaxy-theme-gitlink": "link:../valaxy-theme-yun"
   },
   "devDependencies": {
-    "nodemon": "^2.0.19",
-    "vite-plugin-inspect": "^0.6.0"
+    "nodemon": "^2.0.20",
+    "vite-plugin-inspect": "^0.7.15"
   }
 }

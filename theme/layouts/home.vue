@@ -6,8 +6,6 @@
       <router-view />
     </slot> -->
 
-    <GLFooter class="absolute bottom-0" w="full">
-      <slot name="footer" />
-    </GLFooter>
+    <GLFooter class="absolute bottom-0" w="full" />
   </div>
 </template>
