@@ -41,7 +41,7 @@ jobs:
           cache: pnpm
 
       - name: 🌌 Build Valaxy Blog
-        run: npm run build && sleep 3
+        run: npm run build
         env:
           NODE_OPTIONS: --max-old-space-size=8192
 
