@@ -1,127 +1,127 @@
 {
-  "../../../../../../demo/pages/posts/hello-valaxy.md": [
-    "/assets/hello-valaxy-6c73db86.js"
-  ],
-  "components/AppLink.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/AppLink.vue_vue_type_script_setup_true_lang-ba783d03.js"
-  ],
-  "../../../../../../demo/pages/posts/test.md": [
-    "/assets/test-c244d0ae.js"
+  "../../../../../../theme/components/GLFooter.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/GLFooter.vue_vue_type_script_setup_true_lang-138e59dd.js"
   ],
   "../../../../../../demo/pages/tags/index.md": [
-    "/assets/index-2f148d77.js"
+    "/assets/index-a94e36fa.js"
   ],
-  "layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-e651a2b0.js"
-  ],
-  "layouts/404.vue": [
-    "/assets/404-e651a2b0.js"
-  ],
-  "../../../../../../theme/components/GLSocial.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home-fc0adac4.js",
-    "/assets/home-e6a837c2.css"
-  ],
-  "../../../../../../theme/components/GLSocial.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home-fc0adac4.js",
-    "/assets/home-e6a837c2.css"
-  ],
-  "../../../../../../theme/components/GLIntro.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home-fc0adac4.js",
-    "/assets/home-e6a837c2.css"
-  ],
-  "../../../../../../theme/layouts/home.vue": [
-    "/assets/home-fc0adac4.js",
-    "/assets/home-e6a837c2.css"
-  ],
-  "../../../../../../demo/pages/about.md": [
-    "/assets/about-ca4b9b26.js"
+  "../../../../../../demo/pages/archives/index.md": [
+    "/assets/index-08b96a92.js"
   ],
   "../../../../../../theme/components/StarterArticleCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-7107c37c.js"
+    "/assets/index-c93c51a1.js"
   ],
   "../../../../../../theme/components/StarterPostList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-7107c37c.js"
+    "/assets/index-c93c51a1.js"
   ],
   "../../../../../../theme/pages/index.vue": [
-    "/assets/index-7107c37c.js"
+    "/assets/index-c93c51a1.js"
+  ],
+  "../../../../../../theme/components/StarterDate.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-fc0ea2c2.js"
+  ],
+  "layouts/layout.vue": [
+    "/assets/layout-17de8e91.js"
+  ],
+  "../../../../../../demo/pages/categories/index.md": [
+    "/assets/index-d53bb9f7.js"
+  ],
+  "layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404-c51c92e1.js"
+  ],
+  "layouts/404.vue": [
+    "/assets/404-c51c92e1.js"
+  ],
+  "../../../../../../demo/pages/about.md": [
+    "/assets/about-886e8be1.js"
   ],
   "../../../../../../../../../../../@vite-plugin-pages/route-block": [
     "/assets/route-block-83d24a4e.js"
   ],
-  "../../../../../../theme/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-f911fc5a.js"
-  ],
-  "../../../../../../theme/layouts/404.vue": [
-    "/assets/404-f911fc5a.js"
-  ],
   "pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-7dd5c987.js"
+    "/assets/_...all_-2f9f6e89.js"
   ],
   "pages/[...all].vue": [
-    "/assets/_...all_-7dd5c987.js"
-  ],
-  "../../../../../../theme/components/GLProjectCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-937afe2b.js"
-  ],
-  "../../../../../../theme/components/GLProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-937afe2b.js"
-  ],
-  "../../../../../../theme/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-937afe2b.js"
-  ],
-  "../../../../../../theme/layouts/projects.vue": [
-    "/assets/projects-937afe2b.js"
-  ],
-  "../../../../../../theme/components/StarterDate.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-ccdd2b57.js"
-  ],
-  "layouts/post.vue": [
-    "/assets/post-48060329.js"
-  ],
-  "../../../../../../demo/pages/projects/index.md": [
-    "/assets/index-31ab6669.js"
-  ],
-  "../../../../../../theme/components/GLFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/GLFooter.vue_vue_type_script_setup_true_lang-1360eade.js"
-  ],
-  "../../../../../../theme/components/StarterAuthor.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post-07bd4b9d.js"
-  ],
-  "../../../../../../theme/components/StarterArticle.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post-07bd4b9d.js"
-  ],
-  "../../../../../../theme/layouts/post.vue": [
-    "/assets/post-07bd4b9d.js"
+    "/assets/_...all_-2f9f6e89.js"
   ],
   "../../../../../../demo/pages/posts/draft.md": [
-    "/assets/draft-0cd6e090.js"
-  ],
-  "../../../../../../demo/pages/categories/index.md": [
-    "/assets/index-e6c6edf1.js"
-  ],
-  "../../../../../../demo/pages/archives/index.md": [
-    "/assets/index-c1c45185.js"
-  ],
-  "../../../../../../demo/pages/posts/i18n.md": [
-    "/assets/i18n-6923b071.js"
-  ],
-  "../../../../../../demo/pages/notes/index.md": [
-    "/assets/index-0ae9deb2.js"
-  ],
-  "layouts/layout.vue": [
-    "/assets/layout-2d85fd1d.js"
+    "/assets/draft-9e3894a8.js"
   ],
   "components/ValaxyMd.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-6cae7ca5.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-582c6a45.js",
     "/assets/ValaxyMain-b87527f4.css"
   ],
   "components/ValaxyMd.vue?vue&type=style&index=0&lang.css": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-6cae7ca5.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-582c6a45.js",
     "/assets/ValaxyMain-b87527f4.css"
   ],
   "../../../../../../theme/components/ValaxyMain.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-6cae7ca5.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-582c6a45.js",
     "/assets/ValaxyMain-b87527f4.css"
+  ],
+  "../../../../../../theme/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/404-1a21c5f8.js"
+  ],
+  "../../../../../../theme/layouts/404.vue": [
+    "/assets/404-1a21c5f8.js"
+  ],
+  "../../../../../../theme/components/StarterAuthor.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/post-038df17e.js"
+  ],
+  "../../../../../../theme/components/StarterArticle.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/post-038df17e.js"
+  ],
+  "../../../../../../theme/layouts/post.vue": [
+    "/assets/post-038df17e.js"
+  ],
+  "../../../../../../theme/components/GLProjectCard.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-d33b33db.js"
+  ],
+  "../../../../../../theme/components/GLProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-d33b33db.js"
+  ],
+  "../../../../../../theme/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-d33b33db.js"
+  ],
+  "../../../../../../theme/layouts/projects.vue": [
+    "/assets/projects-d33b33db.js"
+  ],
+  "../../../../../../demo/pages/posts/hello-valaxy.md": [
+    "/assets/hello-valaxy-ba4dd8fc.js"
+  ],
+  "layouts/post.vue": [
+    "/assets/post-e8eb081e.js"
+  ],
+  "../../../../../../demo/pages/notes/index.md": [
+    "/assets/index-fba2b8c2.js"
+  ],
+  "../../../../../../demo/pages/posts/test.md": [
+    "/assets/test-f0122feb.js"
+  ],
+  "components/AppLink.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/AppLink.vue_vue_type_script_setup_true_lang-6a96ba53.js"
+  ],
+  "../../../../../../demo/pages/projects/index.md": [
+    "/assets/index-4438c23a.js"
+  ],
+  "../../../../../../demo/pages/posts/i18n.md": [
+    "/assets/i18n-391baa3f.js"
+  ],
+  "../../../../../../theme/components/GLSocial.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home-4bc30f0c.js",
+    "/assets/home-e6a837c2.css"
+  ],
+  "../../../../../../theme/components/GLSocial.vue?vue&type=style&index=0&lang.scss": [
+    "/assets/home-4bc30f0c.js",
+    "/assets/home-e6a837c2.css"
+  ],
+  "../../../../../../theme/components/GLIntro.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/home-4bc30f0c.js",
+    "/assets/home-e6a837c2.css"
+  ],
+  "../../../../../../theme/layouts/home.vue": [
+    "/assets/home-4bc30f0c.js",
+    "/assets/home-e6a837c2.css"
   ],
   "../../../../../../demo/\u0000vite/modulepreload-polyfill": [
     "/assets/KaTeX_AMS-Regular-0cdd387c.woff2",
