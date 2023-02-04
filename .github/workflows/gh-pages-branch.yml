@@ -8,7 +8,7 @@ on:
       - valaxy
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   build:
@@ -21,10 +21,20 @@ jobs:
       - name: Install pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: latest
+          version: 7
+          run_install: true
 
-      - name: Install & Build
-        run: pnpm install && pnpm build
+      - name: Use Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: https://registry.npmjs.org/
+          cache: pnpm
+      
+      - name: 🌌 Build Valaxy Blog
+        run: npm run build
+        env:
+          NODE_OPTIONS: --max-old-space-size=8192
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
