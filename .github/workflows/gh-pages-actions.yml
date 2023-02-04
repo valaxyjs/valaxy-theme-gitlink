@@ -1,4 +1,4 @@
-name: Deploy Valaxy site to GitHub Pages
+name: Deploy Valaxy site to GitHub Pages by Actions
 
 on:
   # Runs on pushes targeting the default branch
