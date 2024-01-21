@@ -24,6 +24,7 @@ const config = useSiteConfig()
         {{ config.subtitle }}
       </h2>
       <blockquote m="y-4" p="y-2" opacity="80" text="sm" class="border-y border-t-gray-200 border-b-gray-200">
+        <!-- @vue-expect-error TODO: add to valaxy types -->
         {{ config.author.intro }}
       </blockquote>
 

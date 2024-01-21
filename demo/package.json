@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "private": true,
   "scripts": {
     "build": "npm run build:ssg && npm run rss",
@@ -9,11 +10,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "^0.14.6",
+    "valaxy": "^0.17.2",
     "valaxy-theme-gitlink": "link:../valaxy-theme-yun"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20",
-    "vite-plugin-inspect": "^0.7.15"
+    "nodemon": "^3.0.3"
   }
 }

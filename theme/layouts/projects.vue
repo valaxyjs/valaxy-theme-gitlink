@@ -2,7 +2,6 @@
 import { useFrontmatter } from 'valaxy'
 import { reactive } from 'vue'
 import type { ProjectItem } from '../types'
-import Layout from './layout.vue'
 
 export type ProjectDataType = Record<string, {
   title: string
