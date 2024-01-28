@@ -13,7 +13,7 @@ export default defineConfig<ThemeConfig>({
     author: {
       avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
       name: '云游君',
-      intro: '希望能成为一个有趣的人。 希望能创造出可以成为他人回忆的事物。',
+      // intro: '希望能成为一个有趣的人。 希望能创造出可以成为他人回忆的事物。',
     },
     description: 'Valaxy Theme Gitlink Preview.',
     social: [

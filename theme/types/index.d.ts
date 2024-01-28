@@ -72,7 +72,7 @@ export interface NavItem {
   icon?: string
 }
 
-export type ThemeUserConfig = Partial<ThemeConfig>
+export type UserThemeConfig = Partial<ThemeConfig>
 
 /**
  * extend valaxy UserConfig

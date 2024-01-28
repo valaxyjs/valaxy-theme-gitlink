@@ -2,34 +2,8 @@ import type { Plugin } from 'vite'
 import type { ResolvedValaxyOptions } from 'valaxy'
 import type { ThemeConfig } from '../types'
 
-/**
- * Default Config
- */
-export const defaultThemeConfig: ThemeConfig = {
-  colors: {
-    primary: '#0078E7',
-  },
-
-  footer: {
-    since: 2022,
-    icon: {
-      name: 'i-ri-cloud-line',
-      animated: true,
-      color: 'var(--va-c-primary)',
-      url: 'https://sponsors.yunyoujun.cn',
-      title: 'Sponsor YunYouJun',
-    },
-
-    powered: true,
-
-    beian: {
-      enable: false,
-      icp: '',
-    },
-  },
-
-  nav: [],
-}
+export * from './config'
+export * from './unocss'
 
 // write a vite plugin
 // https://vitejs.dev/guide/api-plugin.html
@@ -53,18 +27,4 @@ export function themePlugin(options: ResolvedValaxyOptions<ThemeConfig>): Plugin
       }
     },
   }
-}
-
-/**
- * generateSafelist by config
- * @param themeConfig
- */
-export function generateSafelist(themeConfig: ThemeConfig) {
-  const safelist: string[] = []
-
-  const footerIcon = themeConfig.footer?.icon?.name
-  if (footerIcon)
-    safelist.push(footerIcon)
-
-  return safelist
 }
