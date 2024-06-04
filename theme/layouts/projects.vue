@@ -15,7 +15,7 @@ const projects = reactive(fm.value.projects as ProjectDataType)
 <template>
   <Layout>
     <div text="center">
-      <h2 class="text-2xl my-5">
+      <h2 class="my-5 text-2xl">
         {{ fm.title }}
       </h2>
 

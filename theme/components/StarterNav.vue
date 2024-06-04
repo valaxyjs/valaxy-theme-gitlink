@@ -13,10 +13,10 @@ const themeConfig = useThemeConfig()
 </script>
 
 <template>
-  <nav w="full" class="flex justify-between items-center py-10 font-bold">
+  <nav w="full" class="flex items-center justify-between py-10 font-bold">
     <a class="text-xl" href="/" :aria-label="config.title">
       <img
-        class="inline-block mr-2"
+        class="mr-2 inline-block"
         style="width: 50px; height: 35px"
         alt="logo"
         :src="config.favicon"
@@ -31,7 +31,7 @@ const themeConfig = useThemeConfig()
           rel="noopener"
         >{{ item.text }}</a>
 
-        <span v-if="i !== themeConfig.nav.length - 1" class="mr-2 ml-2">·</span>
+        <span v-if="i !== themeConfig.nav.length - 1" class="ml-2 mr-2">·</span>
       </template>
     </div>
 

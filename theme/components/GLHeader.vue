@@ -5,22 +5,15 @@ const config = useSiteConfig()
 </script>
 
 <template>
-  <div class="pt-6 pb-8 space-y-2 md:space-y-5" text="center" m="t-10">
+  <div class="pb-8 pt-6 space-y-2 md:space-y-5" text="center" m="t-10">
     <router-link class="gl-title" to="/">
       <h1
-        class="
-          text-3xl
-          leading-9
-          font-extrabold
-          tracking-tight
-          sm:text-4xl sm:leading-10
-          md:text-6xl md:leading-14
-        "
+        class="text-3xl font-extrabold leading-9 tracking-tight md:text-6xl sm:text-4xl md:leading-14 sm:leading-10"
       >
         {{ config.title }}
       </h1>
     </router-link>
-    <p class="text-lg leading-7 text-gray-500">
+    <p class="text-lg text-gray-500 leading-7">
       {{ config.subtitle }}
     </p>
   </div>

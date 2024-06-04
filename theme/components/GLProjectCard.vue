@@ -37,7 +37,7 @@ const githubUrl = computed(() => {
 
 <template>
   <div
-    class="rounded shadow-md transform transition w-90 m-2 duration-400"
+    class="m-2 w-90 transform rounded shadow-md transition duration-400"
     bg="opacity-80 gradient-to-br"
     p="2"
     hover="shadow-lg from-white scale-105"

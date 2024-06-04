@@ -7,12 +7,12 @@ const config = useSiteConfig()
 <template>
   <div class="gl-intro flex items-center" justify="center" w="full" h="screen">
     <div
-      class="gl-card transition shadow-md hover:shadow-lg rounded relative" flex="~ col"
+      class="gl-card relative rounded shadow-md transition hover:shadow-lg" flex="~ col"
       min-w="300px"
       items="center" justify="center" m="2" p="4" bg="white dark:dark-900"
     >
       <div class="avatar" flex="~ col" justify="center" items="center" m="t-2">
-        <img class="gl-avatar transition shadow border-white border-width-3px" rounded="full" :src="config.author.avatar" width="100" height="100" alt="avatar">
+        <img class="gl-avatar border-width-3px border-white shadow transition" rounded="full" :src="config.author.avatar" width="100" height="100" alt="avatar">
         <small v-if="config.author.name" opacity="70">
           {{ config.author.name }}
         </small>
@@ -23,7 +23,7 @@ const config = useSiteConfig()
       <h2 opacity="75" m="y-2">
         {{ config.subtitle }}
       </h2>
-      <blockquote m="y-4" p="y-2" opacity="80" text="sm" class="border-y border-t-gray-200 border-b-gray-200">
+      <blockquote m="y-4" p="y-2" opacity="80" text="sm" class="border-y border-b-gray-200 border-t-gray-200">
         <!-- @vue-expect-error TODO: add to valaxy types -->
         {{ config.author.intro }}
       </blockquote>
@@ -32,6 +32,6 @@ const config = useSiteConfig()
       <GLSocial m="t-2" />
     </div>
 
-    <GLConfig class="absolute top-5 right-5" />
+    <GLConfig class="absolute right-5 top-5" />
   </div>
 </template>
