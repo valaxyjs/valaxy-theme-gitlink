@@ -24,7 +24,6 @@
   },
   "main": "index.ts",
   "module": "index.ts",
-  "types": "types/index.d.ts",
   "dependencies": {
     "@iconify-json/ant-design": "^1.1.16",
     "@iconify-json/simple-icons": "^1.1.104"
