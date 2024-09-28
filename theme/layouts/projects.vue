@@ -1,7 +1,7 @@
 <script lang="ts" setup>
+import type { ProjectItem } from '../types'
 import { useFrontmatter } from 'valaxy'
 import { reactive } from 'vue'
-import type { ProjectItem } from '../types'
 
 export type ProjectDataType = Record<string, {
   title: string

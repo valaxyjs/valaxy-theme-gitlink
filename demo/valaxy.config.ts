@@ -1,5 +1,5 @@
-import { defineConfig } from 'valaxy'
 import type { ThemeConfig } from 'valaxy-theme-gitlink'
+import { defineConfig } from 'valaxy'
 
 /**
  * User Config

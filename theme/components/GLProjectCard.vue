@@ -1,7 +1,7 @@
 <script setup lang="ts">
+import type { ProjectItem } from '../types'
 import { TinyColor } from '@ctrl/tinycolor'
 import { computed, toRef } from 'vue'
-import type { ProjectItem } from '../types'
 
 const props = defineProps<{ project: ProjectItem }>()
 
