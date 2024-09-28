@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitlink.valaxy.site/</id>
     <title>Valaxy Theme Gitlink</title>
-    <updated>2024-09-28T21:38:22.483Z</updated>
+    <updated>2024-09-28T21:38:37.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>云游君</name>
@@ -30,7 +30,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-09-28T21:37:35.029Z</published>
+        <published>2024-09-28T21:37:49.237Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valaxy Test 文章内容测试]]></title>
@@ -49,7 +49,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-09-28T21:37:35.029Z</published>
+        <published>2024-09-28T21:37:49.237Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello, Valaxy!]]></title>
