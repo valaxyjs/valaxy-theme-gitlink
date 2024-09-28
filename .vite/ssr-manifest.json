@@ -979,34 +979,34 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../demo/pages/about.md": [
-    "/assets/about-i26Afe_Q.js"
+    "/assets/about-Dc55L-qd.js"
   ],
   "../../../../../../demo/pages/archives/index.md": [
-    "/assets/index-Dzj1MkxF.js"
+    "/assets/index-CBuXgdOu.js"
   ],
   "../../../../../../demo/pages/categories/index.md": [
-    "/assets/index-C_pRZXPs.js"
+    "/assets/index-D3KSmPvV.js"
   ],
   "../../../../../../demo/pages/notes/index.md": [
-    "/assets/index-Dlc5xPgn.js"
+    "/assets/index-ClzLq4aA.js"
   ],
   "../../../../../../demo/pages/posts/draft.md": [
-    "/assets/draft-DxJPGPre.js"
+    "/assets/draft-CSrGhdB6.js"
   ],
   "../../../../../../demo/pages/posts/hello-valaxy.md": [
-    "/assets/hello-valaxy-DzWTqE1W.js"
+    "/assets/hello-valaxy-CeoSBb0O.js"
   ],
   "../../../../../../demo/pages/posts/i18n.md": [
-    "/assets/i18n-Cymt2HpV.js"
+    "/assets/i18n-8Od-DFzU.js"
   ],
   "../../../../../../demo/pages/posts/test.md": [
-    "/assets/test-D-ffYDIs.js"
+    "/assets/test-BrTXy6B9.js"
   ],
   "../../../../../../demo/pages/projects/index.md": [
-    "/assets/index-C-aUz8nU.js"
+    "/assets/index-DSQIOQQ8.js"
   ],
   "../../../../../../demo/pages/tags/index.md": [
-    "/assets/index-DZrh8i4b.js"
+    "/assets/index-D1yTn3eA.js"
   ],
   "../../../../../../demo/styles/index.scss": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1131,7 +1131,7 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/components/GLFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/GLFooter.vue_vue_type_script_setup_true_lang-BP1z38dP.js"
+    "/assets/GLFooter.vue_vue_type_script_setup_true_lang-DLJvc5v4.js"
   ],
   "../../../../../../theme/components/GLHeader.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1256,7 +1256,7 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/components/GLIntro.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home-B73wTQfo.js",
+    "/assets/home-BCNUdt2R.js",
     "/assets/home-BO3xPpXj.css"
   ],
   "../../../../../../theme/components/GLNav.vue?vue&type=script&setup=true&lang.ts": [
@@ -1382,30 +1382,30 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/components/GLProjectCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../../../theme/components/GLProjectCollection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../../../theme/components/GLSocial.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home-B73wTQfo.js",
+    "/assets/home-BCNUdt2R.js",
     "/assets/home-BO3xPpXj.css"
   ],
   "../../../../../../theme/components/GLSocial.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/home-B73wTQfo.js",
+    "/assets/home-BCNUdt2R.js",
     "/assets/home-BO3xPpXj.css"
   ],
   "../../../../../../theme/components/StarterArticle.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post-Cr3c8mJy.js"
+    "/assets/post-CZFuVFcq.js"
   ],
   "../../../../../../theme/components/StarterArticleCard.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-BM6IdtYj.js"
+    "/assets/index-BdeN03Q2.js"
   ],
   "../../../../../../theme/components/StarterAuthor.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/post-Cr3c8mJy.js"
+    "/assets/post-CZFuVFcq.js"
   ],
   "../../../../../../theme/components/StarterDate.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../../../theme/components/StarterHelper.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1469,10 +1469,10 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/components/StarterPostList.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-BM6IdtYj.js"
+    "/assets/index-BdeN03Q2.js"
   ],
   "../../../../../../theme/components/ValaxyMain.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../../../theme/components/layout.vue": [
@@ -1598,10 +1598,10 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/layouts/404.vue": [
-    "/assets/404-p58ma444.js"
+    "/assets/404-B8rg2EQR.js"
   ],
   "../../../../../../theme/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-p58ma444.js"
+    "/assets/404-B8rg2EQR.js"
   ],
   "../../../../../../theme/layouts/default.vue": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1665,17 +1665,17 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/layouts/home.vue": [
-    "/assets/home-B73wTQfo.js",
+    "/assets/home-BCNUdt2R.js",
     "/assets/home-BO3xPpXj.css"
   ],
   "../../../../../../theme/layouts/post.vue": [
-    "/assets/post-Cr3c8mJy.js"
+    "/assets/post-CZFuVFcq.js"
   ],
   "../../../../../../theme/layouts/projects.vue": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../../../theme/layouts/projects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../../../theme/locales/en.yml": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1800,7 +1800,7 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../../../theme/pages/index.vue": [
-    "/assets/index-BM6IdtYj.js"
+    "/assets/index-BdeN03Q2.js"
   ],
   "../../../../../../theme/styles/css-vars.scss": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -1925,19 +1925,19 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../@ctrl+tinycolor@4.1.0/node_modules/@ctrl/tinycolor/dist/module/conversion.js": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../@ctrl+tinycolor@4.1.0/node_modules/@ctrl/tinycolor/dist/module/css-color-names.js": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../@ctrl+tinycolor@4.1.0/node_modules/@ctrl/tinycolor/dist/module/format-input.js": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../@ctrl+tinycolor@4.1.0/node_modules/@ctrl/tinycolor/dist/module/index.js": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../@ctrl+tinycolor@4.1.0/node_modules/@ctrl/tinycolor/dist/module/util.js": [
-    "/assets/projects-qclMWaMT.js"
+    "/assets/projects-BTLJPCEV.js"
   ],
   "../../../../@floating-ui+core@1.6.8/node_modules/@floating-ui/core/dist/floating-ui.core.mjs": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -3282,142 +3282,142 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/getTimezoneOffsetInMilliseconds/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/newDateUTC/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/tzIntlTimeZoneName/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/tzParseTimezone/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/tzPattern/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/_lib/tzTokenizeDate/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/format/formatters/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/format/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/toDate/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns-tz@3.1.3_date-fns@4.1.0/node_modules/date-fns-tz/dist/esm/toZonedTime/index.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/addLeadingZeros.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/defaultOptions.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/format/formatters.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/format/lightFormatters.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/format/longFormatters.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/getTimezoneOffsetInMilliseconds.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/normalizeDates.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/_lib/protectedTokens.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/constants.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/constructFrom.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/differenceInCalendarDays.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/format.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/getDayOfYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/getISOWeek.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/getISOWeekYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/getWeek.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/getWeekYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/isDate.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/isValid.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/_lib/buildFormatLongFn.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/_lib/buildLocalizeFn.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/_lib/buildMatchFn.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/_lib/buildMatchPatternFn.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US/_lib/formatDistance.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US/_lib/formatLong.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US/_lib/formatRelative.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US/_lib/localize.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/locale/en-US/_lib/match.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfDay.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfISOWeek.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfISOWeekYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfWeek.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfWeekYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/startOfYear.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../date-fns@4.1.0/node_modules/date-fns/toDate.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../defu@6.1.4/node_modules/defu/dist/defu.mjs": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -3725,76 +3725,76 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/datetime.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/duration.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/errors.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/conversions.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/diff.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/digits.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/english.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/formats.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/formatter.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/invalid.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/locale.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/regexParser.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/tokenParser.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/util.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/impl/zoneUtil.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/info.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/interval.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/settings.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/zone.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/zones/IANAZone.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/zones/fixedOffsetZone.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/zones/invalidZone.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../luxon@3.5.0/node_modules/luxon/src/zones/systemZone.js": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "../../../../medium-zoom@1.1.0/node_modules/medium-zoom/dist/medium-zoom.esm.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
@@ -4042,103 +4042,103 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/autoInitialize.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/callback.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/cancelOnExit.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/class.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/constants.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/counters.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/data.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/defaults.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/dom.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/elementStatus.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/environment.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/event.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/forEachSource.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionHandlers.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/intersectionObserver.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/lazyload.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/load.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/native.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/online.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/originalAttributes.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/reset.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/restore.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/set.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/tempImage.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vanilla-lazyload@19.1.3/node_modules/vanilla-lazyload/dist/esm/unobserve.js": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "../../../../vite-ssg@0.23.7_auty72zgzprmwgrn4srgauwbri/node_modules/vite-ssg/dist/index.mjs": [
@@ -4874,19 +4874,19 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "components/ValaxyMd.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "components/ValaxyMd.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/back.ts": [
-    "/assets/404-D_4SSi3M.js",
+    "/assets/404-P6-dVqqJ.js",
     "/assets/404-C9gkB6Aj.css"
   ],
   "composables/codeGroups.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/common.ts": [
@@ -5012,19 +5012,19 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "composables/features/collapse-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/features/copy-code.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/features/medium-zoom.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/features/vanilla-lazyload.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/global.ts": [
@@ -5150,14 +5150,14 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "composables/post/index.ts": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "composables/widgets/aplayer.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "composables/widgets/codepen.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "config.ts": [
@@ -5283,15 +5283,15 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "layouts/404.vue": [
-    "/assets/404-D_4SSi3M.js",
+    "/assets/404-P6-dVqqJ.js",
     "/assets/404-C9gkB6Aj.css"
   ],
   "layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-D_4SSi3M.js",
+    "/assets/404-P6-dVqqJ.js",
     "/assets/404-C9gkB6Aj.css"
   ],
   "layouts/404.vue?vue&type=style&index=0&scoped=3ebd77f1&lang.scss": [
-    "/assets/404-D_4SSi3M.js",
+    "/assets/404-P6-dVqqJ.js",
     "/assets/404-C9gkB6Aj.css"
   ],
   "layouts/default.vue": [
@@ -5356,10 +5356,10 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "layouts/empty.vue": [
-    "/assets/empty-8XH21LNe.js"
+    "/assets/empty-DItzcYpy.js"
   ],
   "layouts/post.vue": [
-    "/assets/post-8XH21LNe.js"
+    "/assets/post-DItzcYpy.js"
   ],
   "locales/en.yml": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -5850,10 +5850,10 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "pages/[...path].vue": [
-    "/assets/_...path_-BRUpwfni.js"
+    "/assets/_...path_-DTyPHyu_.js"
   ],
   "pages/[...path].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...path_-BRUpwfni.js"
+    "/assets/_...path_-DTyPHyu_.js"
   ],
   "setup/main.ts": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -5978,7 +5978,7 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "stores/router.ts": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "styles/css-vars.scss": [
     "/assets/KaTeX_AMS-Regular-BQhdFMY1.woff2",
@@ -6286,14 +6286,14 @@
     "/assets/KaTeX_Typewriter-Regular-D3Ib7_Hf.ttf"
   ],
   "utils/content.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ],
   "utils/time.ts": [
-    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-DTzbQW18.js"
+    "/assets/StarterDate.vue_vue_type_script_setup_true_lang-PeFXcqkU.js"
   ],
   "utils/wrap.ts": [
-    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-CWDDn-WM.js",
+    "/assets/ValaxyMain.vue_vue_type_script_setup_true_lang-BXoyQ-ph.js",
     "/assets/ValaxyMain-BO3saikt.css"
   ]
 }

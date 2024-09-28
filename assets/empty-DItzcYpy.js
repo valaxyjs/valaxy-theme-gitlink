@@ -1,0 +1,1 @@
+import{_ as o,D as t,o as c,g as n}from"./app-CViC7NX7.js";const r={};function s(_,a){const e=t("RouterView");return c(),n(e)}const f=o(r,[["render",s]]);export{f as default};
