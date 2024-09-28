@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitlink.valaxy.site/</id>
     <title>Valaxy Theme Gitlink</title>
-    <updated>2024-06-04T07:09:05.911Z</updated>
+    <updated>2024-09-28T21:36:27.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>云游君</name>
@@ -24,13 +24,13 @@
 <p>You can click this button to toggle locales.</p>
 <p>:::</p>
 <div class="text-center">
-  <!-- <YunTo<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+  <!-- <YunTo<br/><p>访问 <a href="https://gitlink.valaxy.site/posts/i18n" target="_blank">https://gitlink.valaxy.site/posts/i18n</a> 阅读全文。</p>]]></content>
         <author>
             <name>云游君</name>
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-04T07:08:19.945Z</published>
+        <published>2024-09-28T21:35:47.904Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valaxy Test 文章内容测试]]></title>
@@ -43,13 +43,13 @@
 <h2>二级标题 {lang=&quot;zh-CN&quot;}</h2>
 <h3>三级标题 {lang=&quot;zh-CN&quot;}</h3>
 <h4>四级标题 {lang=&quot;zh-C</h4>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+<br/><p>访问 <a href="https://gitlink.valaxy.site/posts/test" target="_blank">https://gitlink.valaxy.site/posts/test</a> 阅读全文。</p>]]></content>
         <author>
             <name>云游君</name>
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-06-04T07:08:19.945Z</published>
+        <published>2024-09-28T21:35:47.904Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello, Valaxy!]]></title>
@@ -59,7 +59,7 @@
         <content type="html"><![CDATA[<h2>Hello, Valaxy!</h2>
 <pre><code class="language-ts">import type { ThemeConfig } from 'valaxy-theme-gitlink'
 import { defineCon</code></pre>
-<br/><p>访问 <a href="" target="_blank"></a> 阅读全文。</p>]]></content>
+<br/><p>访问 <a href="https://gitlink.valaxy.site/posts/hello-valaxy" target="_blank">https://gitlink.valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
         <author>
             <name>云游君</name>
             <email>i@valaxy.site</email>
