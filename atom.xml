@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gitlink.valaxy.site/</id>
     <title>Valaxy Theme Gitlink</title>
-    <updated>2024-12-15T11:05:00.786Z</updated>
+    <updated>2025-02-18T18:47:32.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>云游君</name>
@@ -14,7 +14,7 @@
     <subtitle>Valaxy Theme Gitlink Preview.</subtitle>
     <logo>https://www.yunyoujun.cn/images/avatar.jpg</logo>
     <icon>https://gitlink.valaxy.site/favicon.svg</icon>
-    <rights>CC BY-NC-SA 4.0 2024 © 云游君</rights>
+    <rights>CC BY-NC-SA 4.0 2025 © 云游君</rights>
     <entry>
         <title type="html"><![CDATA[i18n]]></title>
         <id>https://gitlink.valaxy.site/posts/i18n</id>
@@ -30,7 +30,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-12-15T11:04:20.194Z</published>
+        <published>2025-02-18T18:47:01.629Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valaxy Test 文章内容测试]]></title>
@@ -49,7 +49,7 @@
             <email>i@valaxy.site</email>
             <uri>https://valaxy.site</uri>
         </author>
-        <published>2024-12-15T11:04:20.194Z</published>
+        <published>2025-02-18T18:47:01.629Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello, Valaxy!]]></title>
