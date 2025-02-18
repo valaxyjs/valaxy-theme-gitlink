@@ -10,7 +10,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "^0.21.1",
+    "valaxy": "^0.22.10",
     "valaxy-theme-gitlink": "link:../valaxy-theme-yun"
   },
   "devDependencies": {
