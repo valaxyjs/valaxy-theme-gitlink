@@ -48,7 +48,7 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=8192
 
       - name: ⏫ Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./demo/dist
 
