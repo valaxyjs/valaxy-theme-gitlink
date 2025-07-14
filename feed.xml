@@ -4,7 +4,7 @@
         <title>Valaxy Theme Gitlink</title>
         <link>https://gitlink.valaxy.site/</link>
         <description>Valaxy Theme Gitlink Preview.</description>
-        <lastBuildDate>Mon, 14 Jul 2025 16:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 16:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -18,7 +18,7 @@
             <title><![CDATA[i18n]]></title>
             <link>https://gitlink.valaxy.site/posts/i18n</link>
             <guid isPermaLink="false">https://gitlink.valaxy.site/posts/i18n</guid>
-            <pubDate>Mon, 14 Jul 2025 16:56:28 GMT</pubDate>
+            <pubDate>Mon, 14 Jul 2025 16:57:06 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: tip</p>
 <p>You can click this button to toggle locales.</p>
 <p>:::</p>
@@ -30,7 +30,7 @@
             <title><![CDATA[Valaxy Test 文章内容测试]]></title>
             <link>https://gitlink.valaxy.site/posts/test</link>
             <guid isPermaLink="false">https://gitlink.valaxy.site/posts/test</guid>
-            <pubDate>Mon, 14 Jul 2025 16:56:28 GMT</pubDate>
+            <pubDate>Mon, 14 Jul 2025 16:57:06 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: zh-CN</p>
 <p>[[toc]]</p>
 <p>标题是一级标题</p>
