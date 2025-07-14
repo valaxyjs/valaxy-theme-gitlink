@@ -10,10 +10,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "^0.22.10",
+    "valaxy": "^0.25.3",
     "valaxy-theme-gitlink": "link:../valaxy-theme-yun"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.10"
   }
 }

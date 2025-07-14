@@ -9,11 +9,12 @@ export default defineConfig<ThemeConfig>({
   siteConfig: {
     lang: 'zh-CN',
     title: 'Valaxy Theme Gitlink',
+    subtitle: 'Valaxy Theme Gitlink Preview',
     url: 'https://gitlink.valaxy.site/',
     author: {
       avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
       name: '云游君',
-      // intro: '希望能成为一个有趣的人。 希望能创造出可以成为他人回忆的事物。',
+      intro: '希望能创造出可以成为他人回忆的事物。',
     },
     description: 'Valaxy Theme Gitlink Preview.',
     social: [

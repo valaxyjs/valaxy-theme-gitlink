@@ -6,6 +6,9 @@
     "baseUrl": ".",
     "module": "ESNext",
     "moduleResolution": "node",
+    "paths": {
+      "valaxy-theme-gitlink": ["../theme/node/index.ts"]
+    },
     "resolveJsonModule": true,
     "strict": true,
     "strictNullChecks": true,

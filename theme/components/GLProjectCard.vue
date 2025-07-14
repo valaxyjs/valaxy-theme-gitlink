@@ -29,9 +29,8 @@ const cardStyle = computed(() => {
 const githubUrl = computed(() => {
   if (project.value.github)
     return `https://github.com/${project.value.github}`
-
   else
-    return `https://github.com/YunYouJun/${project.value.name}`
+    return ''
 })
 </script>
 
@@ -46,12 +45,12 @@ const githubUrl = computed(() => {
     <div v-if="project.emoji" class="mt-4">
       {{ project.emoji }}
     </div>
-    <a :href="githubUrl">
+    <a v-if="githubUrl" :href="githubUrl" target="_blank">
       <h2 text="lg" font="bold" m="2">{{ project.name || '忘记叫啥了' }}</h2>
     </a>
     <small class="block" p="2" v-html="project.desc || '说点什么好呢'" />
     <p p="2">
-      <a class="icon-btn mx-1" :href="githubUrl" target="_blank">
+      <a v-if="githubUrl" class="icon-btn mx-1" :href="githubUrl" target="_blank">
         <div i-ri-github-line />
       </a>
       <a v-if="project.url" class="icon-btn mx-1" :href="project.url" target="_blank">

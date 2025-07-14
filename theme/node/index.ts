@@ -2,6 +2,7 @@ import type { ResolvedValaxyOptions } from 'valaxy'
 import type { Plugin } from 'vite'
 import type { ThemeConfig } from '../types'
 
+export * from '../types'
 export * from './config'
 export * from './unocss'
 
