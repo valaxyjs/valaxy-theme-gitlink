@@ -4,7 +4,7 @@
         <title>Valaxy Theme Gitlink</title>
         <link>https://gitlink.valaxy.site/</link>
         <description>Valaxy Theme Gitlink Preview.</description>
-        <lastBuildDate>Tue, 18 Feb 2025 19:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 16:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,10 +15,22 @@
         <copyright>CC BY-NC-SA 4.0 2025 © 云游君</copyright>
         <atom:link href="https://gitlink.valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[i18n]]></title>
+            <link>https://gitlink.valaxy.site/posts/i18n</link>
+            <guid isPermaLink="false">https://gitlink.valaxy.site/posts/i18n</guid>
+            <pubDate>Mon, 14 Jul 2025 16:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[<p>::: tip</p>
+<p>You can click this button to toggle locales.</p>
+<p>:::</p>
+<div class="text-center">
+  <!-- <YunTo<br/><p>访问 <a href="https://gitlink.valaxy.site/posts/i18n" target="_blank">https://gitlink.valaxy.site/posts/i18n</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (云游君)</author>
+        </item>
+        <item>
             <title><![CDATA[Valaxy Test 文章内容测试]]></title>
             <link>https://gitlink.valaxy.site/posts/test</link>
-            <guid>https://gitlink.valaxy.site/posts/test</guid>
-            <pubDate>Tue, 18 Feb 2025 19:00:22 GMT</pubDate>
+            <guid isPermaLink="false">https://gitlink.valaxy.site/posts/test</guid>
+            <pubDate>Mon, 14 Jul 2025 16:56:28 GMT</pubDate>
             <content:encoded><![CDATA[<p>::: zh-CN</p>
 <p>[[toc]]</p>
 <p>标题是一级标题</p>
@@ -29,21 +41,9 @@
             <author>i@valaxy.site (云游君)</author>
         </item>
         <item>
-            <title><![CDATA[i18n]]></title>
-            <link>https://gitlink.valaxy.site/posts/i18n</link>
-            <guid>https://gitlink.valaxy.site/posts/i18n</guid>
-            <pubDate>Tue, 18 Feb 2025 19:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[<p>::: tip</p>
-<p>You can click this button to toggle locales.</p>
-<p>:::</p>
-<div class="text-center">
-  <!-- <YunTo<br/><p>访问 <a href="https://gitlink.valaxy.site/posts/i18n" target="_blank">https://gitlink.valaxy.site/posts/i18n</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (云游君)</author>
-        </item>
-        <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
             <link>https://gitlink.valaxy.site/posts/hello-valaxy</link>
-            <guid>https://gitlink.valaxy.site/posts/hello-valaxy</guid>
+            <guid isPermaLink="false">https://gitlink.valaxy.site/posts/hello-valaxy</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>Hello, Valaxy!</h2>
 <pre><code class="language-ts">import type { ThemeConfig } from 'valaxy-theme-gitlink'
