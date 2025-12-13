@@ -1,6 +1,6 @@
 {
   "name": "valaxy-theme-gitlink",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "packageManager": "pnpm@10.25.0",
   "author": {
     "email": "me@yunyoujun.cn",
