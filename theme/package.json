@@ -1,7 +1,7 @@
 {
   "name": "valaxy-theme-gitlink",
   "version": "0.1.9",
-  "packageManager": "pnpm@10.13.1",
+  "packageManager": "pnpm@10.25.0",
   "author": {
     "email": "me@yunyoujun.cn",
     "name": "YunYouJun",
@@ -25,11 +25,11 @@
   "main": "index.ts",
   "module": "index.ts",
   "dependencies": {
-    "@ctrl/tinycolor": "^4.1.0",
+    "@ctrl/tinycolor": "^4.2.0",
     "@iconify-json/ant-design": "^1.2.5",
-    "@iconify-json/simple-icons": "^1.2.43"
+    "@iconify-json/simple-icons": "^1.2.62"
   },
   "devDependencies": {
-    "valaxy": "^0.25.3"
+    "valaxy": "^0.26.10"
   }
 }

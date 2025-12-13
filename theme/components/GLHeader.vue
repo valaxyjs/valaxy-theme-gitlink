@@ -13,7 +13,7 @@ const config = useSiteConfig()
         {{ config.title }}
       </h1>
     </router-link>
-    <p class="text-lg text-gray-500 leading-7">
+    <p class="mt-4 text-lg text-$gl-c-text/80 leading-7">
       {{ config.subtitle }}
     </p>
   </div>
